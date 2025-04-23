@@ -20,8 +20,3 @@ I'm building up a personal lab environment to learn infrastructure, self-hosting
 
 Obsidian • GoodNotes • GitHub • VS Code • Proxmox • Docker • Kubernetes
 ---
-
-### 🧰 Tools in My Workflow
-
-Obsidian • GoodNotes • GitHub • VS Code • Proxmox • Docker • Kubernetes
----
