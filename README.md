@@ -1,6 +1,7 @@
 ## Hi there, I'm Zach Laocmbe 👋
 
-I'm building up a personal lab environment to learn infrastructure, self-hosting, and automation. This is where I keep track of my progress, share what I'm learning, and publish useful configurations.
+I'm building up a personal lab environment to learn infrastructure, self-hosting, and automation. This is where I keep track of my progress, share what I'm learning, and publish useful configurations.\
+
 ---
 
 ### 🔧 Projects I'm Working On
@@ -23,3 +24,4 @@ Obsidian • GoodNotes • GitHub • VS Code • Proxmox • Docker • Kuberne
 ### 🧰 Tools in My Workflow
 
 Obsidian • GoodNotes • GitHub • VS Code • Proxmox • Docker • Kubernetes
+---
