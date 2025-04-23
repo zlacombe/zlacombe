@@ -1,4 +1,4 @@
-## Hi there, I'm Zach Laocmbe 👋
+## Hi there, I'm Zach Lacombe 👋
 
 I'm building up a personal lab environment to learn infrastructure, self-hosting, and automation. This is where I keep track of my progress, share what I'm learning, and publish useful configurations.\
 
